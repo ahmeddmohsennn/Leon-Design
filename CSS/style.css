@@ -194,7 +194,7 @@ nav.open {
 /* LANDING */
 .landing {
   height: 71vh;
-  background-image: url(../Img/landing2.jpg);
+  background-image: url(../img/landing2.jpg);
   background-size: cover;
   position: relative;
 }
